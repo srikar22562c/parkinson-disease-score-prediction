@@ -1,5 +1,8 @@
 # parkinson-disease-prediction-regression
 
+https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/telemonitoring/parkinsons_updrs.data
+
+
 
 This project implements a fully connected neural network to predict clinical Parkinson’s disease progression scores (motor_UPDRS and total_UPDRS) using the Parkinson’s Telemonitoring dataset from the UCI Machine Learning Repository. The task is formulated as a multi-output regression problem, where the model learns to map biomedical voice measurements to disease severity scores.
 
